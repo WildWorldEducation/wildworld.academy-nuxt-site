@@ -9,6 +9,6 @@ export default defineNuxtConfig({
     { src: "~/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js", mode: "client" }
   ],
   devServer: {
-    port: 3000
+    port: 3001
   }
 })
