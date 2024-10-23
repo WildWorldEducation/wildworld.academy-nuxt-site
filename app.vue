@@ -4,12 +4,12 @@
   <header>
     <nav
       id="navbar"
-      class="navbar fixed-top navbar-expand-lg navbar-light bg-light"
+      class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark"
     >
       <div class="container-fluid">
-        <RouterLink to="/" class="nav-link">
+        <!-- <RouterLink to="/" class="nav-link">
           <img src="" alt="" width="50" height="50" />
-        </RouterLink>
+        </RouterLink> -->
         <span class="navbar-brand">Wild World Academy</span>
         <button
           class="navbar-toggler"
@@ -74,5 +74,10 @@ html,
 body {
   height: 100%;
   color: black;
+}
+
+body {
+  background-color: #c8d5e5 !important;
+  font-family: "Architects Daughter", cursive !important;
 }
 </style>
