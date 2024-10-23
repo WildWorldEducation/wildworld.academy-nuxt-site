@@ -1,5 +1,5 @@
 <template>
-  <h2>Version 4</h2>
+  <h3>Animal Vocab</h3>
   <a
     href="https://sunshine-english-school-actvities.s3.af-south-1.amazonaws.com/Adventure001/index.html"
     target="_blank"

@@ -1,5 +1,5 @@
 <template>
-  <h2>Toddler Game</h2>
+  <h3>Toddler Game</h3>
   <a
     href="http://toddler-game.s3-website-us-east-1.amazonaws.com"
     target="_blank"

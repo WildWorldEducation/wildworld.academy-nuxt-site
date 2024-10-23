@@ -25,13 +25,21 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <RouterLink to="/mini-games" class="nav-link"
-                >Mini Games</RouterLink
-              >
+              <RouterLink to="/language" class="nav-link">
+                Language
+              </RouterLink>
             </li>
             <li class="nav-item">
-              <RouterLink to="/magic-cards" class="nav-link">
-                Magic Cards Series
+              <RouterLink to="/computer-science" class="nav-link">
+                Computer Science
+              </RouterLink>
+            </li>
+            <li class="nav-item">
+              <RouterLink to="/physics" class="nav-link"> Physics </RouterLink>
+            </li>
+            <li class="nav-item">
+              <RouterLink to="/toddlers" class="nav-link">
+                Toddlers
               </RouterLink>
             </li>
             <li class="nav-item">
@@ -56,5 +64,15 @@
       </div>
     </nav>
   </header>
-  <NuxtPage />
+  <div class="container">
+    <NuxtPage />
+  </div>
 </template>
+
+<style>
+html,
+body {
+  height: 100%;
+  color: black;
+}
+</style>

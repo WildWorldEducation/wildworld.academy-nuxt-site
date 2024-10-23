@@ -1,5 +1,5 @@
 <template>
-  <h2>AI Physics Tutor</h2>
+  <h3>AI Physics Tutor</h3>
   <a
     href="http://ai-physic-tutor.s3-website-us-east-1.amazonaws.com/"
     target="_blank"

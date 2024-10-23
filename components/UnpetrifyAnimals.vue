@@ -1,5 +1,5 @@
 <template>
-  <h2>Unpetrify Animals</h2>
+  <h3>Unpetrify Animals</h3>
   <a
     href="https://sunshine-english-school-actvities.s3.af-south-1.amazonaws.com/MC004/index.html"
     target="_blank"

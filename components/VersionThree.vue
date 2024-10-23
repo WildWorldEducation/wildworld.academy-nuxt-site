@@ -1,5 +1,5 @@
 <template>
-  <h2>Version 3</h2>
+  <h3>Version 3</h3>
   <a
     href="https://sunshine-english-school-actvities.s3.af-south-1.amazonaws.com/MC001/index.html"
     target="_blank"

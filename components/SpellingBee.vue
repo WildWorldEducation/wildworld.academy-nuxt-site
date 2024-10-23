@@ -1,5 +1,5 @@
 <template>
-  <h2>Spelling Bee</h2>
+  <h3>Spelling Bee</h3>
   <a
     href="https://sunshine-english-school-actvities.s3.af-south-1.amazonaws.com/SpellingBee/index.html"
     target="_blank"

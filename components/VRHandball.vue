@@ -1,3 +1,3 @@
 <template>
-  <h2>VR Handball</h2>
+  <h3>VR Handball</h3>
 </template>

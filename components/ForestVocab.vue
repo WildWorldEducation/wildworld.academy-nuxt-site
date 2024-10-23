@@ -1,5 +1,5 @@
 <template>
-  <h2>Forest Vocab</h2>
+  <h3>Forest Vocab</h3>
   <a
     href="https://sunshine-english-school-actvities.s3.af-south-1.amazonaws.com/MC002/index.html"
     target="_blank"

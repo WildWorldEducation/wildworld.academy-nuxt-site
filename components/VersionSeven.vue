@@ -1,5 +1,5 @@
 <template>
-  <h2>Version 7</h2>
+  <h3>Version 7</h3>
   <a
     href="http://version-seven.s3-website-us-east-1.amazonaws.com"
     target="_blank"

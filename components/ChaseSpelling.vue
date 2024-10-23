@@ -1,5 +1,5 @@
 <template>
-  <h2>Chase Spelling</h2>
+  <h3>Chase Spelling</h3>
   <a
     href="https://sunshine-english-school-actvities.s3.af-south-1.amazonaws.com/ChaseGame/index.html"
     target="_blank"
