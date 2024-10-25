@@ -1,5 +1,5 @@
 import { mergeProps, withCtx, createTextVNode, toDisplayString, useSSRContext, defineComponent, ref, h, resolveComponent, computed } from 'vue';
-import { z as parseQuery, l as hasProtocol, n as joinURL, A as withTrailingSlash, B as withoutTrailingSlash } from '../runtime.mjs';
+import { v as parseQuery, l as hasProtocol, n as joinURL, x as withTrailingSlash, y as withoutTrailingSlash } from '../runtime.mjs';
 import { _ as _export_sfc, u as useRouter, n as nuxtLinkDefaults, r as resolveRouteObject, a as navigateTo, b as useNuxtApp, c as useRuntimeConfig } from './server.mjs';
 import { ssrRenderAttrs, ssrInterpolate, ssrRenderComponent } from 'vue/server-renderer';
 import { u as useHead } from './index-C2merokO.mjs';
@@ -14,6 +14,7 @@ import 'devalue';
 import '@unhead/ssr';
 import 'unhead';
 import '@unhead/shared';
+import 'vue-router';
 
 async function preloadRouteComponents(to, router = useRouter()) {
   {
@@ -387,4 +388,4 @@ _sfc_main.setup = (props, ctx) => {
 const error404 = /* @__PURE__ */ _export_sfc(_sfc_main, [["__scopeId", "data-v-00b6b518"]]);
 
 export { error404 as default };
-//# sourceMappingURL=error-404-Br3t3WXg.mjs.map
+//# sourceMappingURL=error-404-DwbUMA09.mjs.map
